@@ -1,4 +1,4 @@
-# MASKED/
+# MASKED
 The project above consists of three main parts:\
 1> The jupyter notebook that was use to train the model for seperating the masked and unmasked faces.\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The link to the data set is as follows:\
